@@ -35,7 +35,7 @@ print("Swapped values are:",a,b)
 
 
 ## RESULT:
-Thus the swapping of two values are successfully executed
+Thus python program for swapping of two values are successfully executed
 
 
 
